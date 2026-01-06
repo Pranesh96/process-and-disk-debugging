@@ -1,0 +1,8 @@
+Filesystem       Inodes  IUsed    IFree IUse% Mounted on
+tmpfs           2006702   1848  2004854    1% /run
+/dev/nvme0n1p3 14794752 423655 14371097    3% /
+tmpfs           2006702    545  2006157    1% /dev/shm
+tmpfs           2006702      4  2006698    1% /run/lock
+efivarfs              0      0        0     - /sys/firmware/efi/efivars
+/dev/nvme0n1p1        0      0        0     - /boot/efi
+tmpfs            401340    202   401138    1% /run/user/1000
